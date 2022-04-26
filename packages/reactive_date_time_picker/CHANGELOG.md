@@ -1,3 +1,6 @@
+## [0.2.3]
+* update dependencies
+
 ## [0.2.2]
 * ability to override get initial time
 * ability to override date formatter
